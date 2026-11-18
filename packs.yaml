@@ -11,12 +11,12 @@ packs:
     summary: Lets the assistant keep reading your Gmail and Google Calendar (your sent mail too), and act on them only after your yes on that exact change. It signs in as you on Google's own page.
     publisher: &publisher skywalkr2   # the publisher, set once here for both packs
     maintainers: true
-    updated: "2026-11-17"
-    version: 0.2.5
-    plugin_api: ">=0.3.101,<0.4"
+    updated: "2026-11-18"
+    version: 0.2.7
+    plugin_api: ">=0.3.102,<0.4"
     release:
-      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.5-py3-none-any.whl
-      sha256: 618b61b52b6a9866c181ed37b29a221214ab05ff140dd885962f50dd240d606b
+      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.7-py3-none-any.whl
+      sha256: 16900a5d7de41ced147425958e6ae24a003d3c1773b9bfcc1751ef7ed9459246
     price:
       model: see_publisher
     install: "Install it from the Add-ons screen, or download its .whl file from this catalog's releases folder, then: cockpit install <the file>"
@@ -38,12 +38,12 @@ packs:
     summary: Lets the assistant keep reading your Outlook mail and calendar (your sent mail too), and act on them only after your yes on that exact change. It signs in as you on Microsoft's own page.
     publisher: *publisher
     maintainers: true
-    updated: "2026-11-17"
-    version: 0.2.5
-    plugin_api: ">=0.3.101,<0.4"
+    updated: "2026-11-18"
+    version: 0.2.7
+    plugin_api: ">=0.3.102,<0.4"
     release:
-      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.5-py3-none-any.whl
-      sha256: 618b61b52b6a9866c181ed37b29a221214ab05ff140dd885962f50dd240d606b
+      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.7-py3-none-any.whl
+      sha256: 16900a5d7de41ced147425958e6ae24a003d3c1773b9bfcc1751ef7ed9459246
     price:
       model: see_publisher
     install: "Install it from the Add-ons screen, or download its .whl file from this catalog's releases folder, then: cockpit install <the file>"
