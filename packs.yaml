@@ -11,12 +11,12 @@ packs:
     summary: Lets the assistant keep reading your Gmail and Google Calendar (your sent mail too), and act on them only after your yes on that exact change. It signs in as you on Google's own page.
     publisher: &publisher skywalkr2   # the publisher, set once here for both packs
     maintainers: true
-    updated: "2026-11-18"
-    version: 0.2.7
+    updated: "2026-11-19"
+    version: 0.2.8
     plugin_api: ">=0.3.102,<0.4"
     release:
-      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.7-py3-none-any.whl
-      sha256: 16900a5d7de41ced147425958e6ae24a003d3c1773b9bfcc1751ef7ed9459246
+      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.8-py3-none-any.whl
+      sha256: 2a7313fe1e21db3f2ae8518b4a70b29fb6a0307885051c576eedb5f708a68809
     price:
       model: see_publisher
     install: "Install it from the Add-ons screen, or download its .whl file from this catalog's releases folder, then: cockpit install <the file>"
@@ -38,12 +38,12 @@ packs:
     summary: Lets the assistant keep reading your Outlook mail and calendar (your sent mail too), and act on them only after your yes on that exact change. It signs in as you on Microsoft's own page.
     publisher: *publisher
     maintainers: true
-    updated: "2026-11-18"
-    version: 0.2.7
+    updated: "2026-11-19"
+    version: 0.2.8
     plugin_api: ">=0.3.102,<0.4"
     release:
-      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.7-py3-none-any.whl
-      sha256: 16900a5d7de41ced147425958e6ae24a003d3c1773b9bfcc1751ef7ed9459246
+      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.8-py3-none-any.whl
+      sha256: 2a7313fe1e21db3f2ae8518b4a70b29fb6a0307885051c576eedb5f708a68809
     price:
       model: see_publisher
     install: "Install it from the Add-ons screen, or download its .whl file from this catalog's releases folder, then: cockpit install <the file>"
