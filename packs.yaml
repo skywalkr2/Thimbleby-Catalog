@@ -12,11 +12,11 @@ packs:
     publisher: &publisher skywalkr2   # the publisher, set once here for both packs
     maintainers: true
     updated: "2026-11-19"
-    version: 0.2.11
-    plugin_api: ">=0.3.106,<0.4"
+    version: 0.2.12
+    plugin_api: ">=0.3.107,<0.4"
     release:
-      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.11-py3-none-any.whl
-      sha256: aa1db754b4a0fd72413283bd907ed54e0d5fe7b04c7c6af75928939f34fcb766
+      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.12-py3-none-any.whl
+      sha256: 43223e5ba0f59265e8f1b7b27fee246dbd6c7b05ec9834a6b295b6f164bd685a
     price:
       model: see_publisher
     install: "Install it from the Add-ons screen, or download its .whl file from this catalog's releases folder, then: cockpit install <the file>"
@@ -39,11 +39,11 @@ packs:
     publisher: *publisher
     maintainers: true
     updated: "2026-11-19"
-    version: 0.2.11
-    plugin_api: ">=0.3.106,<0.4"
+    version: 0.2.12
+    plugin_api: ">=0.3.107,<0.4"
     release:
-      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.11-py3-none-any.whl
-      sha256: aa1db754b4a0fd72413283bd907ed54e0d5fe7b04c7c6af75928939f34fcb766
+      url: https://raw.githubusercontent.com/skywalkr2/PMCockpit-Catalog/main/releases/pm_cockpit_mail_calendar-0.2.12-py3-none-any.whl
+      sha256: 43223e5ba0f59265e8f1b7b27fee246dbd6c7b05ec9834a6b295b6f164bd685a
     price:
       model: see_publisher
     install: "Install it from the Add-ons screen, or download its .whl file from this catalog's releases folder, then: cockpit install <the file>"
